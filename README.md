@@ -7,7 +7,6 @@
  ___
 <div>
 <a href="https://github.com/brunagiammelaro">
-<img src="https://github-readme-stats.vercel.app/api?username=brunagiammelaro&show_icons=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunagiammelaro&show_icons=true&theme=radical">
 </div>
 
