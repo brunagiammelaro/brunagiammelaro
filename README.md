@@ -1,7 +1,6 @@
 <h1>Bruna S O Giammelaro</h1>
 
 📓 Sou estudante do último semestre de Análise e Desenvolvimento de Software.
- Atualmente estou me especializando em desenvolvimento back-end.
 
 ⚙️ Atualmente estou me especializando em desenvolvimento back-end.
  ___
