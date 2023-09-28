@@ -15,7 +15,9 @@
 ### Idiomas 💬
 <img height="20" width="30" src="https://raw.githubusercontent.com/lipis/flag-icons/20abcf34eaecc2adac6cb290f8cecf52fa7ad8b7/flags/1x1/it.svg" target="_blank"></a>
 <img height="20" width="30" src="https://raw.githubusercontent.com/lipis/flag-icons/20abcf34eaecc2adac6cb290f8cecf52fa7ad8b7/flags/1x1/us.svg" target="_blank"></a>
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=brunagiammelaro&show_icons=true&theme=radical)
+
+
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=brunagiammelaro&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 <!--
 **brunagiammelaro/brunagiammelaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
