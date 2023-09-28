@@ -4,22 +4,14 @@
 
 ⚙️ Atualmente estou me especializando em desenvolvimento back-end.
  ___
-<div>
-<a href="https://github.com/brunagiammelaro">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunagiammelaro&show_icons=true&theme=radical">
-</div>
-
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=brunagiammelaro&show_icons=true&theme=radical)
 ### Contato 📫
-   <a href="https://www.linkedin.com/in/bruna-s-oliveira-giammelaro-234825242/" target="_blank"><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-plain.svg" target="_blank"></a>
-   <a href="https://github.com/brunagiammelaro" target="_blank"><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" target="_blank"></a>
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunasso94/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-giammelaro/)
+   
 
 ### Estudando  🔭
-<img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" target="_blank"></a>
-<img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg" target="_blank"></a>
-<img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" target="_blank"></a>
-<img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" target="_blank"></a>
-<img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg" target="_blank"></a>
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres)](https://skillicons.dev)
 
 ### Idiomas 💬
 <img height="20" width="30" src="https://raw.githubusercontent.com/lipis/flag-icons/20abcf34eaecc2adac6cb290f8cecf52fa7ad8b7/flags/1x1/it.svg" target="_blank"></a>
